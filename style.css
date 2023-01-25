@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+.buscar{
+  margin:20px;
+}
+.formulario{
+  background-color:#7862da;
+  height:50px;
+  text-align: center;
+  color:white;
+
+}
+.contfor{
+  margin-top: 500px;
+}
